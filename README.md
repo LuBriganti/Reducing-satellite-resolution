@@ -1,1 +1,1 @@
-# task0
+# GOES-16 reducing resolution 
